@@ -28,7 +28,7 @@ app.post('/send-email', (req, res) => {
 
     // Email options
     const mailOptions = {
-        from: `"Raunak Agarwal" <${process.env.EMAIL_USER}>`,
+        from: `"Digvijaya Nagda" <${process.env.EMAIL_USER}>`,
         to: email,
         subject: subject,
         text: `Name: ${fullName}\nEmail: ${email}\nMobile Number: ${mobileNumber}\nMessage: ${message}\nWe will get back to you shortly`
