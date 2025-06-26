@@ -822,7 +822,7 @@ i:hover::after {
     transform: translateY(50px);
     animation: fadeInPortfolio 1s ease-out forwards;
     margin-bottom: 50px;
-    margin-top: -20px;
+    margin-top: -40px;
     min-height: 100vh;
 }
 
