@@ -736,11 +736,7 @@ i:hover::after {
     transition: color 0.3s ease-in-out, transform 0.3s ease-in-out;
 }
 
-@media (max-width: 768px) {
-    .skills h2 {
-        font-size: 4rem;
-    }
-}
+
 
 @media (max-width: 480px) {
     .skills h2 {
