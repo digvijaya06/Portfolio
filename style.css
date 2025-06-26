@@ -720,7 +720,7 @@ i:hover::after {
     gap: 0;
     animation: slideIn 1s ease-out forwards;
     margin-top: 25%;
-    padding-top: 25px;
+    padding-top: 5px;
     padding-bottom: 20px;
 }
 
